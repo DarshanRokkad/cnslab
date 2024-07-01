@@ -54,3 +54,13 @@ class prog7 {
             return gcd(z % e,e);
 }
 }
+
+
+
+
+
+
+
+
+input:
+25,7,11
